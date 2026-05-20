@@ -1,0 +1,22 @@
+[33m9ef863d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: commit: Estructura unificada: Flutter en raiz y Bun en subcarpeta
+[33m0efe726[m HEAD@{1}: reset: moving to 0efe726
+[33m0efe726[m HEAD@{2}: rebase (finish): returning to refs/heads/main
+[33m0efe726[m HEAD@{3}: rebase (pick): ebelmon: Hemos añadido un Pie Chart
+[33m6979f01[m HEAD@{4}: rebase (reword): ebelmon: StateNotifierProvider para las bandas
+[33m063337d[m HEAD@{5}: rebase: fast-forward
+[33mc270add[m HEAD@{6}: rebase (start): checkout HEAD~3
+[33m427017c[m HEAD@{7}: commit: ebelmon: Hemos añadido un Pie Chart
+[33m063337d[m HEAD@{8}: commit: ebelmon: Hemos añadido un Pie Chart
+[33mc270add[m HEAD@{9}: commit: ebelmon: Widget Dissmissible para borrar ListViews
+[33m7300318[m HEAD@{10}: commit: ebelmon: Ventana de diálogo
+[33m2a01264[m HEAD@{11}: commit: ebelmon: Lista de bandas musicales
+[33mb99a991[m HEAD@{12}: commit: ebelmon: Implementación de Light y Dark
+[33mf1e06b7[m HEAD@{13}: commit: ebelmon: Gestor de estado Riverpod instalado
+[33mf3b0e01[m HEAD@{14}: commit: ebelmon: Icono de la App
+[33m7ee4712[m HEAD@{15}: commit: ebelmon: StatefulWidget para el contador
+[33m4fdf0b6[m HEAD@{16}: commit: ebelmon: Navegación con Go Router
+[33m01ccb99[m HEAD@{17}: commit: ebelmon: Pantalla Domus con ListView
+[33m8f8dfb9[m HEAD@{18}: commit: ebelmon: Botón central en verde del Themedata
+[33m8acad0f[m HEAD@{19}: commit: ebelmon: Botón central en verde del Themedata
+[33m5cb3d07[m HEAD@{20}: commit: firstcommit
+[33m1ad16d0[m HEAD@{21}: commit (initial): Initial commit
