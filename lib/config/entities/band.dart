@@ -20,11 +20,10 @@ class Band {
     );
 }
 
-factory Band.fromMap(Map<String, dynamic> map){
-  return Band(
-    id: map['id'],
-    nomen: map['nomen'],
-    numerusVotum: map['numerusVotum']
+ factory Band.fromMap(Map<String, dynamic> obj) => Band(
+    id: obj['id'],
+    nomen: obj['nomen'],
+    numerusVotum: obj['numerusVotum'],
   );
-}
+    
 }
